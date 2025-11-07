@@ -1,0 +1,19 @@
+Experiment 6
+
+Image classification on MNIST dataset (CNN model with fully connected layer)
+
+Experiment 7
+
+Train a sentiment analysis model on IMDB dataset, use RNN layers with LSTM/GRU
+
+Experiment 8
+
+Applying the Deep Learning Models in the field of Natural Language Processing
+
+Experiment 9
+
+Implement Bi-GRU and Bi-LSTM on image or text dataset for prediction
+
+Experiment 10
+
+Implement deep learning methodologies on multimodal dataset 
